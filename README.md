@@ -10,4 +10,4 @@ To get the application running on your Arduino Nano 33 BLE Sense, follow these s
  4. Install the libraries "ArduinoBLE" (version 1.1.3) and "Arduino\_TensorFlowLite'" (version 2.4.0) via the Library Manager
  5. Select "Arduino Nano 33 BLE" as the used board
  6. Open "bird\_classifier\_application.ino" located in the cloned repository in the Arduino IDE
- 7. Upload the application via the upload-butten
+ 7. Upload the application via the upload-button
